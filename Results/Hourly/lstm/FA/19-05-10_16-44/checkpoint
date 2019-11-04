@@ -1,0 +1,2 @@
+model_checkpoint_path: "FA_12_12_model"
+all_model_checkpoint_paths: "FA_12_12_model"

@@ -1,0 +1,4 @@
+Building : DG
+xlength : 24
+yLength : 12
+

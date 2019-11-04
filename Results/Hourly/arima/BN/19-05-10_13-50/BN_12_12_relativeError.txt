@@ -1,0 +1,16 @@
+RE0  , RE1  ,
+nan ,nan
+nan ,nan
+nan ,nan
+nan ,nan
+nan ,nan
+nan ,nan
+nan ,nan
+nan ,nan
+nan ,nan
+nan ,nan
+nan ,nan
+nan ,nan
+
+average0 : nan
+average1 : nan

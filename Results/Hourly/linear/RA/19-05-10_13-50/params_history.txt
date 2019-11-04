@@ -1,0 +1,4 @@
+Building : RA
+xlength : 12
+yLength : 12
+

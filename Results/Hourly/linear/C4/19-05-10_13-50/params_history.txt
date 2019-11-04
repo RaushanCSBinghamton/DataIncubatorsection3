@@ -1,0 +1,4 @@
+Building : C4
+xlength : 12
+yLength : 12
+

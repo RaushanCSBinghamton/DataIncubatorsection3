@@ -1,0 +1,4 @@
+Building : SN
+xlength : 18
+yLength : 12
+

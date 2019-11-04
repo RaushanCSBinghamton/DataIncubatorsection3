@@ -1,0 +1,4 @@
+Building : EB
+xlength : 24
+yLength : 12
+

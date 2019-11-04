@@ -1,0 +1,4 @@
+Building : BR
+xlength : 30
+yLength : 12
+

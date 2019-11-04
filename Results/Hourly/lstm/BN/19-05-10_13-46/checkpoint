@@ -1,0 +1,2 @@
+model_checkpoint_path: "BN_30_12_model"
+all_model_checkpoint_paths: "BN_30_12_model"

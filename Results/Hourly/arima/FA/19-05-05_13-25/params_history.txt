@@ -1,0 +1,4 @@
+Building : FA
+xlength : 24
+yLength : 12
+

@@ -1,0 +1,4 @@
+Building : BN
+xlength : 24
+yLength : 12
+

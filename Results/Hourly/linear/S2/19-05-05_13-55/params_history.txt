@@ -1,0 +1,4 @@
+Building : S2
+xlength : 24
+yLength : 12
+

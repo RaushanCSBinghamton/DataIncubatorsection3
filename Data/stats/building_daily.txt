@@ -1,0 +1,148 @@
+RA
+Number of total data points: 3112
+
+Median water flow: 13470.0
+Response outliers: 0
+Demand outliers: 0
+
+GE
+Number of total data points: 3112
+
+Median water flow: 9125.0
+Response outliers: 0
+Demand outliers: 0
+
+CE
+Number of total data points: 3112
+
+Median water flow: 695.0
+Response outliers: 0
+Demand outliers: 0
+
+ES
+Number of total data points: 3112
+
+Median water flow: 5153.5
+Response outliers: 0
+Demand outliers: 0
+
+SN
+Number of total data points: 3112
+
+Median water flow: 7585.5
+Response outliers: 0
+Demand outliers: 0
+
+OO
+Number of total data points: 3112
+
+Median water flow: 5117.147351861562
+Response outliers: 0
+Demand outliers: 0
+
+DE
+Number of total data points: 3112
+
+Median water flow: 12950.0
+Response outliers: 0
+Demand outliers: 0
+
+EB
+Number of total data points: 3112
+
+Median water flow: 1804.5
+Response outliers: 0
+Demand outliers: 0
+
+C4
+Number of total data points: 3112
+
+Median water flow: 6760.5
+Response outliers: 0
+Demand outliers: 0
+
+BN
+Number of total data points: 3112
+
+Median water flow: 10400.0
+Response outliers: 0
+Demand outliers: 0
+
+PF
+Number of total data points: 3112
+
+Median water flow: 9125.0
+Response outliers: 0
+Demand outliers: 0
+
+RC
+Number of total data points: 3112
+
+Median water flow: 0.0
+Response outliers: 0
+Demand outliers: 0
+
+FA
+Number of total data points: 3112
+
+Median water flow: 2351.5
+Response outliers: 0
+Demand outliers: 0
+
+LH
+Number of total data points: 3112
+
+Median water flow: 4246.0
+Response outliers: 0
+Demand outliers: 0
+
+S3
+Number of total data points: 3112
+
+Median water flow: 13987.0
+Response outliers: 0
+Demand outliers: 0
+
+JS
+Number of total data points: 3112
+
+Median water flow: 13785.0
+Response outliers: 0
+Demand outliers: 0
+
+S2
+Number of total data points: 3112
+
+Median water flow: 1331.5
+Response outliers: 0
+Demand outliers: 0
+
+BR
+Number of total data points: 3112
+
+Median water flow: 6115.0
+Response outliers: 0
+Demand outliers: 0
+
+DG
+Number of total data points: 3112
+
+Median water flow: 11302.5
+Response outliers: 0
+Demand outliers: 0
+
+S1
+Number of total data points: 3112
+
+Median water flow: 210571.9199999999
+Median water flow: 5153.5
+Response outliers: 0
+Demand outliers: 0
+
+C4
+Number of total data points: 3112
+
+Median water flow: 6760.5
+Response outliers: 0
+Demand outliers: 0
+

@@ -1,0 +1,15 @@
+best LSTM C same	best LSTM CDH same	best LSTM CHW same	LSTM CDW same
+../Results/Hourly/lstm/BN/19-05-08_15-12/	../Results/Hourly/lstm/BN/19-05-14_14-01/	../Results/Hourly/lstm/BN/19-05-14_13-16/	../Results/Hourly/lstm/BN/19-05-13_10-58/
+../Results/Hourly/lstm/BR/19-05-08_16-01/	../Results/Hourly/lstm/BR/19-05-14_14-09/	../Results/Hourly/lstm/BR/19-05-14_13-16/	../Results/Hourly/lstm/BR/19-05-13_10-58/
+../Results/Hourly/lstm/C4/19-05-08_16-44/	../Results/Hourly/lstm/C4/19-05-14_14-10/	../Results/Hourly/lstm/C4/19-05-14_13-18/	../Results/Hourly/lstm/C4/19-05-13_10-59/
+../Results/Hourly/lstm/DE/19-05-08_17-24/	../Results/Hourly/lstm/DE/19-05-14_14-11/	../Results/Hourly/lstm/DE/19-05-14_13-19/	../Results/Hourly/lstm/DE/19-05-13_11-00/
+../Results/Hourly/lstm/DG/19-05-08_18-05/	../Results/Hourly/lstm/DG/19-05-14_14-15/	../Results/Hourly/lstm/DG/19-05-14_13-20/	../Results/Hourly/lstm/DG/19-05-13_11-00/
+../Results/Hourly/lstm/EB/19-05-08_15-12/	../Results/Hourly/lstm/EB/19-05-14_14-33/	../Results/Hourly/lstm/EB/19-05-14_13-21/	../Results/Hourly/lstm/EB/19-05-13_11-02/
+../Results/Hourly/lstm/FA/19-05-08_16-07/	../Results/Hourly/lstm/FA/19-05-14_14-20/	../Results/Hourly/lstm/FA/19-05-14_13-22/	../Results/Hourly/lstm/FA/19-05-13_11-02/
+../Results/Hourly/lstm/GE/19-05-08_17-03/	../Results/Hourly/lstm/GE/19-05-14_14-21/	../Results/Hourly/lstm/GE/19-05-14_13-24/	../Results/Hourly/lstm/GE/19-05-13_11-04/
+../Results/Hourly/lstm/JS/19-05-08_17-58/	../Results/Hourly/lstm/JS/19-05-14_14-21/	../Results/Hourly/lstm/JS/19-05-14_13-25/	../Results/Hourly/lstm/JS/19-05-13_11-05/
+../Results/Hourly/lstm/LH/19-05-08_18-53/	../Results/Hourly/lstm/LH/19-05-14_14-22/	../Results/Hourly/lstm/LH/19-05-14_13-26/	../Results/Hourly/lstm/LH/19-05-13_11-06/
+../Results/Hourly/lstm/RA/19-05-08_15-12/	../Results/Hourly/lstm/RA/19-05-14_14-22/	../Results/Hourly/lstm/RA/19-05-14_13-28/	../Results/Hourly/lstm/RA/19-05-13_11-06/
+../Results/Hourly/lstm/S2/19-05-08_16-07/	../Results/Hourly/lstm/S2/19-05-14_14-23/	../Results/Hourly/lstm/S2/19-05-14_13-57/	../Results/Hourly/lstm/S2/19-05-13_11-08/
+../Results/Hourly/lstm/S3/19-05-08_17-03/	../Results/Hourly/lstm/S3/19-05-14_14-25/	../Results/Hourly/lstm/S3/19-05-14_13-51/	../Results/Hourly/lstm/S3/19-05-13_11-09/
+../Results/Hourly/lstm/SN/19-05-08_17-58/	../Results/Hourly/lstm/SN/19-05-14_14-25/	../Results/Hourly/lstm/SN/19-05-14_13-52/	../Results/Hourly/lstm/SN/19-05-13_11-10/

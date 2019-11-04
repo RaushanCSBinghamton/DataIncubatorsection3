@@ -1,0 +1,4 @@
+Building : S3
+xlength : 18
+yLength : 12
+
