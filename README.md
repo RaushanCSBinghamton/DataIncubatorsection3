@@ -58,7 +58,7 @@
 
 ******** HOW TO RUN ********
 - Add the preprocessing files path (respectively to your folder) to the PYTHONPATH variable
-     export PYTHONPATH=$PYTHONPATH:/home/gissella/Documents/Research/WaterQuality/Binghamton
+     export PYTHONPATH=$PYTHONPATH:/home/raushan/Documents/Research/WaterQuality/Binghamton
 - The library pmdarima was replaced by pyramid
      from pmdarima.arima import auto_arima
      from pyramid.arima import auto_arima
